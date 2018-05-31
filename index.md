@@ -1,32 +1,15 @@
 ## 欢迎来到我的主页
 
-You can use the [editor on GitHub](https://github.com/Still-waters-run-deep/Still-waters-run-deep.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这就是我 [不一样的烟火](https://github.com/Still-waters-run-deep/Still-waters-run-deep.github.io/edit/master/index.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 我的格言
+
+道德的高地寸草不生
 
 ```markdown
 Syntax highlighted code block
-
-# 主题 1
-## 主题 2
-### 主题 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
